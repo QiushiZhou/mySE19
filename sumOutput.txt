@@ -1,0 +1,12 @@
+please enter the value of the number : 
+the value of Number is : 10
+The sum of the numbers from 1 to num= 10 is sum=55  
+please enter the value of the number : 
+the value of Number is : 100
+The sum of the numbers from 1 to num= 100 is sum=5050  
+please enter the value of the number : 
+the value of Number is : 1000
+The sum of the numbers from 1 to num= 1000 is sum=500500  
+please enter the value of the number : 
+the value of Number is : 5000
+The sum of the numbers from 1 to num= 5000 is sum=12502500  
